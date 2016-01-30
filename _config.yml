@@ -1,9 +1,7 @@
-favicon: null
 name: alexander.y
-opengraph:
-  image: null
-  type: null
-  appId: null
+favicon: null
+layout_spectrum: 1
+typography_spectrum: 0.62438
 collections:
   - index:
       path: /
@@ -16,25 +14,27 @@ collections:
       path: /rss.xml
       format: rss
       number: 10
-purpose: []
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
 color:
-  saturation: 0.998184205731377
-  brandStrength: 0.1861199201084673
-  lightness: 0.9643738972954452
   brandColors:
     - '#FFFFFF'
     - '#AFC9D8'
     - '#A58A6F'
     - '#273A41'
     - '#5D8FA4'
+  brandStrength: 0.1861199201084673
+  lightness: 0.9643738972954452
+  saturation: 0.998184205731377
   rhythmicContrast: 0.08883767551742494
-typography_spectrum: 0.5126476
-layout_spectrum: 0.3440135
-analytics:
-  twitter: null
-  google: null
-  facebook: null
-cta:
-  bucket: null
-  version: null
-  domain: null
+purpose: []
