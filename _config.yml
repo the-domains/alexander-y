@@ -1,0 +1,28 @@
+name: alexander.y
+favicon: null
+layout_spectrum: 0.03598312265239656
+typography_spectrum: 0.5374226358253509
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#17BEBB'
+    - '#2E282A'
+    - '#CD5334'
+    - '#EDB88B'
+    - '#FAD8D6'
+  brandStrength: 0.18611992010846734
+  lightness: 0.9643738972954452
+  saturation: 0.998184205731377
+  rhythmicContrast: 0.08883767551742494
+purpose: []
